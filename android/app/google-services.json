@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "989870258606",
+    "firebase_url": "https://aegishome-f989b-default-rtdb.firebaseio.com",
+    "project_id": "aegishome-f989b",
+    "storage_bucket": "aegishome-f989b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989870258606:android:e8ba14d2ed38c23b67b03f",
+        "android_client_info": {
+          "package_name": "com.example.aegis_home"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADQU9iJsoRHGGopSoYsYkpP679sFYNXkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
